@@ -1,8 +1,9 @@
 # package_name
 
-Description. 
+Description: 
 The package package_name is used to:
-	Trainig to create packages and modules in Python. 
+	Trainig to create packages and modules in Python.
+	Trainig to publish a project on Pypi.
 		
 
 ## Installation
